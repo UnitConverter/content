@@ -46,3 +46,4 @@ identical.
 - {{HTTPStatus("303", "303 See Other")}}, a temporary redirect that changes the method
   used to {{HTTPMethod("GET")}}.
 - {{HTTPStatus("301", "301 Moved Permanently")}}, a permanent redirect
+- Analyze internal url redirection and its path using any online tool, such as the [redirect checker](https://redirectchecker.com/ "redirect checker") tool.
